@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!--
-**Shivambansal-hub/Shivambansal-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Shivam Bansal and I'm a Engineer, from IIT Roorkee</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since first year of college i.e 2023<br>📚 I'm currently learning Machine learning<br>🎯 Goals: To Built a usefull machine learning predicting model  <br>🎲 Fun fact: I do competitive programming in mean time as well</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  
+</div>
+
+###
