@@ -1,29 +1,23 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 🚀 Welcome to My GitHub!  
 
-###
+Hi there! I'm an **Electrical Engineering student at IIT Roorkee (Batch of 2027)** passionate about **AI, Deep Learning, and Software Development**. I enjoy working on **TensorFlow, Python, LangChain, C++, and various AI applications**.  
 
-<p align="left">My name is Shivam Bansal and I'm a Engineer, from IIT Roorkee</p>
+## 🔥 Interests & Skills  
+- **Machine Learning & Deep Learning** (TensorFlow, PyTorch)  
+- **AI & NLP** (Transformers, LSTMs, LangChain)  
+- **Software Development** (Python, C++)  
+- **Hardware & FPGA** (Vivado, Verilog)  
 
-###
+## 📌 Projects  
+You’ll find my work on **AI models, automation, and hardware implementations**. Feel free to check out my repositories and contribute!  
 
-<h2 align="left">About me</h2>
+## 🌱 Currently Learning  
+- LangChain & AI Agents  
+- FPGA Design & Verilog for AI Applications  
 
-###
+## 📫 Let's Connect!  
+- **GitHub**: [Your GitHub Profile](#)  
+- **LinkedIn**: [Your LinkedIn Profile](#)  
+- **Email**: [Your Email](#)  
 
-<p align="left">✨ Creating bugs since first year of college i.e 2023<br>📚 I'm currently learning Machine learning<br>🎯 Goals: To Built a usefull machine learning predicting model  <br>🎲 Fun fact: I do competitive programming in mean time as well</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  
-</div>
-
-###
+Looking forward to collaborating! 🚀  
