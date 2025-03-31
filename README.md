@@ -16,8 +16,8 @@ You’ll find my work on **AI models, automation, and hardware implementations**
 - FPGA Design & Verilog for AI Applications  
 
 ## 📫 Let's Connect!  
-- **GitHub**: [Your GitHub Profile](#)  
-- **LinkedIn**: [Your LinkedIn Profile](#)  
-- **Email**: [Your Email](#)  
+- **GitHub**: [[Your GitHub Profile](https://github.com/Shivambansal-hub/Shivambansal-hub)](#)  
+- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/shivam-bansal-b73a8727b/)](#)  
+- **Email**: [shivam_b@ee.iitr.ac.in](#)  
 
 Looking forward to collaborating! 🚀  
