@@ -5,8 +5,7 @@ Hi there! I'm an **Electrical Engineering student at IIT Roorkee (Batch of 2027)
 ## 🔥 Interests & Skills  
 - **Machine Learning & Deep Learning** (TensorFlow, PyTorch)  
 - **AI & NLP** (Transformers, LSTMs, LangChain)  
-- **Software Development** (Python, C++)  
-- **Hardware & FPGA** (Vivado, Verilog)  
+- **Software Development** (Python, C++)   
 
 ## 📌 Projects  
 You’ll find my work on **AI models, automation, and hardware implementations**. Feel free to check out my repositories and contribute!  
