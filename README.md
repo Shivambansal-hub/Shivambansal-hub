@@ -11,8 +11,7 @@ Hi there! I'm an **Electrical Engineering student at IIT Roorkee (Batch of 2027)
 You’ll find my work on **AI models, automation, and hardware implementations**. Feel free to check out my repositories and contribute!  
 
 ## 🌱 Currently Learning  
-- LangChain & AI Agents  
-- FPGA Design & Verilog for AI Applications  
+- LangChain & AI Agents   
 
 ## 📫 Let's Connect!  
 - **GitHub**: [https://github.com/Shivambansal-hub/Shivambansal-hub](#)  
