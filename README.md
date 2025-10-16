@@ -16,6 +16,6 @@ You’ll find my work on **AI models, automation, and hardware implementations**
 ## 📫 Let's Connect!  
 - **GitHub**: [https://github.com/Shivambansal-hub/Shivambansal-hub](#)  
 - **LinkedIn**: [https://www.linkedin.com/in/shivam-bansal-b73a8727b/](#)  
-- **Email**: [shivam_b@ee.iitr.ac.in](#)  
+- **Email**: [shivambansal357@gmail.com](#)  
 
 Looking forward to collaborating! 🚀  
