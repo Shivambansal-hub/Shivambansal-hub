@@ -8,7 +8,7 @@ Hi there! I'm an **Electrical Engineering student at IIT Roorkee (Batch of 2027)
 - **Software Development** (Python, C++)   
 
 ## 📌 Projects  
-You’ll find my work on **AI models, automation, and hardware implementations**. Feel free to check out my repositories and contribute!  
+You’ll find my work on **AI models**. Feel free to check out my repositories and contribute!  
 
 ## 🌱 Currently Learning  
 - LangChain & AI Agents   
